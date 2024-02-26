@@ -16,6 +16,10 @@ import java.util.List;
 public class Controller {
     @Autowired
     Service service;
+    @RequestMapping("/home")
+    public String home(){
+        return "home";
+    }
     @RequestMapping("/sform")
     public String sform(){
         return "studentinput";
