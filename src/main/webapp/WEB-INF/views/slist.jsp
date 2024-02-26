@@ -64,6 +64,8 @@
 <center><a href="/clist">Total Courses</a>
 <br><br>
 <center><a href="/sform">Add Students</a>
+<br></br>
+<center><a href="/join">Mappings</a></center>
 </body>
 </html>
 
