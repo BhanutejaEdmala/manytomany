@@ -62,6 +62,8 @@
 <center><a href="/slist">Total Students</a>
 <br><br>
 <center><a href="/csadd">Add Courses</a>
+<br></br>
+<center><a href="/join">Mappings</a></center>
 </body>
 </html>
 
