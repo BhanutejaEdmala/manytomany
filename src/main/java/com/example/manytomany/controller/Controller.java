@@ -16,7 +16,7 @@ import java.util.List;
 public class Controller {
     @Autowired
     Service service;
-    @RequestMapping("/home")
+    @RequestMapping("")
     public String home(){
         return "home";
     }
