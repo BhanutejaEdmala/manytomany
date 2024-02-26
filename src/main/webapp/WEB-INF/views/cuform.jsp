@@ -1,4 +1,4 @@
-<h1>Adding Courses For Student</h1>
+<h1>Updating Course</h1>
 <form action="/cuadd">
     Enter Course Id: <input type="text" name="cid"  value="${cid}" readonly>
     <br><br>
