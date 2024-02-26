@@ -33,9 +33,6 @@
 <body>
 <div class="button-container">
     <div class="button-container">
-        <form action="/">
-            <input type="submit" value="Add">
-        </form>
     </div>
 </div>
 <table>
